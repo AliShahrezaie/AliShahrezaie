@@ -1,7 +1,8 @@
-## Hi there 👋
+# Ali Shahrezaie
 
-<!--
-**AliShahrezaie/AliShahrezaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Iran University of Science and Technology, interested in cybersecurity, operating systems, and computer networks.
+
+<!--**AliShahrezaie/AliShahrezaie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
